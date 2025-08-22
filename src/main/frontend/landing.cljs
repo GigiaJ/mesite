@@ -17,9 +17,9 @@
     "Actively a contributor to "
     [:a {:href "https://guix.gnu.org"} "Guix"]
     " -as a package maintainer- and "
-    [:a {:href "https://gthub.com/GigiaJ/cinny"} "Cinny (Matrix client)"]
+    [:a {:href "https://github.com/GigiaJ/cinny"} "Cinny (Matrix client)"]
     "."] 
-   [:p "Software engineer (and more) at Ocean Spray Cranberries. I adore farmer-owned coops. Companies shouldn't be driven to improve stock prices."]
+   [:p "Software engineer (and more) at Ocean Spray Cranberries. I adore farmer-owned co-ops. Companies shouldn't be driven to improve stock prices."]
    [:p "Large proponent for free open source software, but I also think that users should not be directly bridled from choices that are unequivocally pro-sumer."] 
    [:br]
    [:br]
