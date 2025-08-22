@@ -14,7 +14,7 @@
    [:h1 "Jaggar"]
    [:p "Sometimes I do stuff. Fairly often really."]
    [:p
-    "Actively a contributor to "
+    "Active contributor to "
     [:a {:href "https://guix.gnu.org"} "Guix"]
     " -as a package maintainer- and "
     [:a {:href "https://github.com/GigiaJ/cinny"} "Cinny (Matrix client)"]
